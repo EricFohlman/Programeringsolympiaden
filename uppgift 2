@@ -1,0 +1,22 @@
+using System;
+
+namespace Programeringsolympiaden1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hur många deltagare är det?");
+            int n = int.Parse (Console.ReadLine () );
+
+            Console.WriteLine("Hur många te påsar finns det??");
+            int k = int.Parse (Console.ReadLine() );
+
+            Console.WriteLine();
+
+
+
+
+        }
+    }
+}
