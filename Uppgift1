@@ -1,0 +1,20 @@
+using System;
+
+namespace Programeringsolympiaden1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Antal deltagare?");
+            int n = int.Parse(Console.ReadLine());
+            if (1, <= n, <= 10000);
+            Console.WriteLine( n-1, n-1);
+
+            
+
+            Console.WriteLine("Svar: ");
+
+        }
+    }
+}
